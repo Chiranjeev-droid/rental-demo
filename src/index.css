@@ -933,3 +933,6 @@ button,
     min-width: 25vw;
   }
 }
+body {
+  background-color: #eceff8;
+}
